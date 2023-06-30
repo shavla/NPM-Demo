@@ -1,0 +1,23 @@
+{
+  "name": "npmddemo",
+  "version": "1.0.0",
+  "description": "test my ability",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run demo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shavla/NPM-Demo.git"
+  },
+  "keywords": [
+    "npm",
+    "demo"
+  ],
+  "author": "shavla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shavla/NPM-Demo/issues"
+  },
+  "homepage": "https://github.com/shavla/NPM-Demo#readme"
+}
